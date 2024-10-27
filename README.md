@@ -1,2 +1,0 @@
-# HypotheekMaatje
-Een hypotheektool
