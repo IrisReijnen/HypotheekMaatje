@@ -111,9 +111,6 @@ public class HypotheekTool {
         }
 
         return maximaalBedrag;
-//        DecimalFormat df = new DecimalFormat("#.00");
-//        return Double.parseDouble(df.format(maximaalBedrag));
-//        return Math.round(maximaalBedrag * 100.0) / 100.0;
     }
 
     // Haal het rentepercentage op basis van de rentevaste periode
